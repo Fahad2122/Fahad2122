@@ -5,6 +5,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.fahadarif.com"><img src="https://img.shields.io/badge/Portfolio-fahadarif.com-0A0A0A?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="mailto:fahadjutt2122@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Fahad2122"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -19,6 +20,7 @@ I'm a passionate software developer specializing in **Web3**, **blockchain techn
 - ⚓ Experienced with **Anchor framework** for Solana programs and **Hardhat/Foundry** for EVM contracts
 - 🌱 Deepening expertise in **backend development**, **Rust**, and **DeFi protocols**
 - 💡 Interested in **programming**, **cybersecurity**, and **decentralized systems**
+- 🌐 Portfolio: **[fahadarif.com](https://www.fahadarif.com)**
 - 📫 Reach me at **fahadjutt2122@gmail.com**
 
 ---
