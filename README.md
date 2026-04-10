@@ -86,8 +86,8 @@ I'm a passionate software developer specializing in **Web3**, **blockchain techn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahad2122&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahad2122&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fahad2122.vercel.app/api?username=Fahad2122&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fahad2122.vercel.app/api/top-langs/?username=Fahad2122&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
